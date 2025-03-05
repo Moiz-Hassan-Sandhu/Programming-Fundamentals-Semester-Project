@@ -1,0 +1,80 @@
+101|Leather Jacket                   [4000]jackets,14
+102|Columbia Fleece Jacket           [3700]jackets,4
+103|Patagonia Down Jacket            [5000]jackets,1
+104|Canada Goose Parka               [9000]jackets,0
+105|Zara Blazer                      [4300]jackets,2
+106|Armani Leather Jacket            [10000]jackets,1
+107|Puma Hoodie                      [2500]jackets,14
+108|North Face Hoodie                [2700]jackets,9
+109|H&M Windbreaker Jacket           [2300]jackets,8
+201|Converse Sneakers                [5500]shoes,12
+202|Nike Running Shoes               [4500]shoes,7
+203|Adidas Running Shoes             [4800]shoes,0
+204|Reebok Training Shoes            [4200]shoes,8
+205|Asics Running Shoes              [4000]shoes,13
+206|Vans Old Skool Shoes             [3700]shoes,14
+207|New Balance 574 Sneakers         [7000]shoes,9
+208|Nike Blazer Sneakers             [7500]shoes,5
+209|Adidas Gazelle Sneakers          [5200]shoes,0
+301|Darkblue Jeans                   [2000]pants,8
+302|Black Cargo Pants                [2600]pants,7
+303|Grey Joggers                     [2100]pants,20
+304|Cargo Pants                      [2800]pants,6
+305|Khaki Chinos                     [2400]pants,14
+306|Levi's Slim Jeans                [3500]pants,8
+307|Wrangler Bootcut Jeans           [3300]pants,6
+308|Denim Overalls                   [3800]pants,5
+309|Diesel Slim Jeans                [4000]pants,4
+401|Under Armour T-Shirt             [1800]shirts,25
+402|Tommy Hilfiger Polo              [3200]shirts,18
+403|Ralph Lauren Dress Shirt         [4200]shirts,10
+404|GAP Casual Shirt                 [2200]shirts,17
+405|Uniqlo Oxford Shirt              [2800]shirts,10
+406|Nike Dri-FIT T-Shirt             [2500]shirts,12
+407|Adidas Performance Shirt         [3000]shirts,14
+408|Puma Sports T-Shirt              [2300]shirts,16
+409|H&M Casual Shirt                 [2200]shirts,18
+501|Ray-Ban Sunglasses               [7000]accessories,4
+502|Oakley Sports Sunglasses         [6200]accessories,8
+503|Fossil Leather Wallet            [3100]accessories,29
+504|Tissot Men's Watch               [12000]accessories,3
+505|Nike Cap                         [1500]accessories,24
+506|Adidas Beanie                    [2000]accessories,20
+507|Gucci Baseball Cap               [12500]accessories,7
+508|New Era Snapback Cap             [1800]accessories,19
+509|Adidas Pcap                      [3000]accessories,3
+601|Columbia Jacket                  [5500]jackets,9
+602|North Face Jacket                [6000]jackets,7
+603|H&M Casual Jacket                [2800]jackets,6
+604|Adidas Trekking Jacket           [5200]jackets,5
+605|Reebok Windbreaker Jacket        [4600]jackets,8
+606|Puma Waterproof Jacket           [5200]jackets,10
+607|Patagonia Rain Jacket            [7000]jackets,6
+608|Tommy Hilfiger Rain Jacket       [4800]jackets,12
+609|Wrangler Waterproof Jacket       [5500]jackets,4
+701|Nike Sports Sneakers             [6000]shoes,9
+702|Adidas Hiking Boots              [8500]shoes,7
+703|Puma Running Shoes               [4500]shoes,13
+704|Reebok Hiking Boots              [4700]shoes,5
+705|Converse Chuck Taylor            [3800]shoes,8
+706|New Balance Walking Shoes        [4500]shoes,11
+707|Skechers Go Walk Shoes           [4000]shoes,10
+708|Under Armour Trail Shoes         [5000]shoes,6
+709|Nike Air Force 1                 [7500]shoes,14
+801|Ray-Ban Sunglasses               [8000]accessories,4
+802|Oakley  Sunglasses               [7500]accessories,6
+803|Fossil Stainless  Watch          [15000]accessories,2
+804|Michael Kors Watch               [20000]accessories,7
+805|Adidas Sports Cap                [2000]accessories,15
+806|Fila Tennis Cap                  [2200]accessories,13
+807|Tommy Hilfiger Sunglasses        [6500]accessories,6
+808|Calvin Klein Wallet              [4200]accessories,10
+809|Swarovski Crystal Watch          [18000]accessories,4
+901|Nike Beanie                      [1900]accessories,21
+902|Puma Baseball Cap                [1600]accessories,25
+903|Adidas Sports Beanie             [1700]accessories,22
+904|Reebok Baseball Cap              [1500]accessories,20
+905|H&M Sports Cap                   [1400]accessories,18
+906|Fila Baseball Cap                [1300]accessories,25
+907|New Era Cap                      [1600]accessories,23
+908|Converse Cap                     [1500]accessories,19

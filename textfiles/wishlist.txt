@@ -1,0 +1,6 @@
+moiz|101|Leather Jacket            [4000]jackets,1
+moiz|906|Fila Baseball Cap         [1300]accessories,1
+moiz|102|Columbia Fleece Jacket    [3700]jackets,1
+moiz|908|Converse Cap              [1500]accessories,1
+moiz|907|New Era Cap               [1600]accessories,1
+moiz|908|Converse Cap              [1500]accessories,1
